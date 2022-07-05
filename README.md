@@ -39,6 +39,10 @@ src="https://img.shields.io/twitter/follow/kushyzeena?logo=twitter&style=for-the
 
 <a href="https://github.com/Kushyzee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushyzee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kushyzee&theme=dark_lover&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Jokes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
