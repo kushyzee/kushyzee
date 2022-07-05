@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend web developer
 ----------------------
 
-[![MasterHead](https://i.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.webp)](https://github.com/kushyzee)
+<img alt="Coding" width="100%" src="https://i.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.webp">
 
 I am a self-taught web developer who started programming with C++ back in 2018 but I was struggling to keep up so I abandoned it. I picked up web development later in 2021 when I was given an orientation about the various fields in the world of programming. I did a bit of research and figured out a good roadmap to follow which all begins with HTML and CSS. Right now I am enjoying frontend development and I am starting to get more comfortable building projects to supplement my learning.
 
