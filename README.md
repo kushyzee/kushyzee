@@ -6,11 +6,11 @@ Frontend web developer
 
 <img alt="Coding" width="100%" src="https://i.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.webp">
 
-I am a self-taught web developer who started programming with C++ back in 2018 but I was struggling to keep up so I abandoned it. I picked up web development later in 2021 when I was given an orientation about the various fields in the world of programming. I did a bit of research and figured out a good roadmap to follow which all begins with HTML and CSS. Right now I am enjoying frontend development and I am starting to get more comfortable building projects to supplement my learning.
+I am an aspiring frontend web developer who specializes in building and designing beautiful web apps using. I am passionate about building excellent software that improves the lives of those around me
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [niklaus.oa@gmail.com](mailto:niklaus.oa@gmail.com)
-* 🧠  I'm learning Html, CSS and JavaScript
+* 🧠  I'm learning currently learning Typescript and Next.js
 
 <a href="https://www.twitter.com/kushyzeena" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kushyzeena?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
