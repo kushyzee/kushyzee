@@ -6,13 +6,17 @@ Frontend web developer
 
 <img alt="Coding" width="100%" src="https://i.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.webp">
 
-I am an aspiring frontend web developer who specializes in building and designing beautiful web apps using. I am passionate about building excellent software that improves the lives of those around me
+I build clean, fast, and user-friendly web interfaces.
+I focus on turning ideas and designs into responsive, accessible UIs that feel smooth to use and easy to maintain. I care a lot about performance, clarity, and writing code that actually scales beyond “it works on my machine.”
+
+My goal is simple:
+build interfaces that look good, load fast, and make sense to real users.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [niklaus.oa@gmail.com](mailto:niklaus.oa@gmail.com)
 * 🧠  I'm learning currently learning Typescript and Next.js
 
-<a href="https://www.twitter.com/kushyzeena" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/zeecodez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kushyzeena?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
